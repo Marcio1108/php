@@ -1,0 +1,27 @@
+redes locais 13/03/2018
+
+(isso tudo e coisa dce camada 1, fisica)yok7
+>>habilidades:
+#qualidade dos fornecedores, prestação de serviços;
+#estabelecer diretrizes para redes logicas;
+#estruturar LAN graficamente com auxilio de software(representar uma rede atraves de imagens);
+#Implementa redes logicas.
+
+>>Funçoes basicas:
+#interface de comunicação, interface serial, rs-232,v.35,rs-485(cabos seriais)
+ RS-232:usado antigamente quando internet nao era acessivel para  conectar um pc a outro usando protocolo ipx/spx.
+ conexão serial(trabalha bit a bit) adotada pq tem maior  alcançe(mas e lenta), enquanto conexoes paralelas(trabalham  byte a byte) alcançam ate 7 metros.
+#Padrões eletricos(seguir e documentar para minimizar riscos),  Formas de interação(network).
+#estrutura de rede(condiçoes dos equipamentos ow manutenção dos  mesmos).
+#cabeamento estruturado, seguir as normas, evita danos.
+#parei de anotar aki, pe perdi, tava viajando!
+
+>>Evoluçao:
+#redes usavam velocidade de 100 Mb/s que passou a ser 10Gb/s;
+#Cresceu rapido pq melhorou cabos(nao dava mais pra usa o do  telefone) e outros equipamentos(DSL);
+#cabeamento e o alicerçe da rede;
+#redes de comp. devem no minimo suportar a tranmissao de dados,  voz imagens e etc. E o basicao hj em dia;
+>>situação das empresas
+#Tecnologia proprietaria sao eqipamentos q sao incompativeis com outros tipos de tecnologia;
+                                     
+
